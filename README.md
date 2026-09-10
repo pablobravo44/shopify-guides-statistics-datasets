@@ -7,7 +7,7 @@ Own data published by the network's sites (11 domains) under [CC BY 4.0](https:/
 ### [Shopify Statistics 2026](https://storelaunchguides.com/statistics/)
 
 - Page with the current version, the method ("How we counted") and the cite box: **[https://storelaunchguides.com/statistics/](https://storelaunchguides.com/statistics/)**
-- Twins on the site itself: [https://storelaunchguides.com/statistics/data/](https://storelaunchguides.com/statistics/)
+- Downloads (CSV/JSON) on the site itself: [https://storelaunchguides.com/statistics/#download-the-data](https://storelaunchguides.com/statistics/#download-the-data)
 - Files in this repository:
   - [serp-2026.csv](storelaunchguides.com/serp-2026.csv)
   - [serp-2026.json](storelaunchguides.com/serp-2026.json)
