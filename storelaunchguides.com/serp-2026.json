@@ -1,0 +1,426 @@
+{
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Store Launch Guides — https://storelaunchguides.com/statistics/",
+    "source": "https://storelaunchguides.com/statistics/",
+    "computedBy": "content-hub stats-dataset",
+    "kind": "serp",
+    "network": "shopify",
+    "site": "storelaunchguides.com",
+    "computedAt": "2026-09-10T11:35:03.302Z",
+    "retrievedAt": "2026-09-10",
+    "lang": "en-US",
+    "queries": 28,
+    "perQuery": 10,
+    "n": 259,
+    "nFetched": 251,
+    "nBlocked": 8,
+    "nUnknown": 0,
+    "yearInTitlePct": 46,
+    "currentYearInTitlePct": 44,
+    "pricesShownPct": 72,
+    "visibleDatePct": 42,
+    "comparisonTablePct": 13,
+    "faqPct": 6,
+    "wordCount": {
+        "n": 251,
+        "median": 2338,
+        "q1": 1164,
+        "q3": 3694,
+        "min": 78,
+        "max": 14891
+    },
+    "pageType": {
+        "guide": {
+            "n": 113,
+            "pct": 45
+        },
+        "listicle": {
+            "n": 42,
+            "pct": 17
+        },
+        "study": {
+            "n": 26,
+            "pct": 10
+        },
+        "other": {
+            "n": 25,
+            "pct": 10
+        },
+        "forum": {
+            "n": 19,
+            "pct": 8
+        },
+        "product": {
+            "n": 18,
+            "pct": 7
+        },
+        "category": {
+            "n": 5,
+            "pct": 2
+        },
+        "news": {
+            "n": 2,
+            "pct": 1
+        },
+        "tool": {
+            "n": 1,
+            "pct": 0
+        }
+    },
+    "domainType": {
+        "brand": {
+            "n": 142,
+            "pct": 57
+        },
+        "blog": {
+            "n": 37,
+            "pct": 15
+        },
+        "media": {
+            "n": 34,
+            "pct": 14
+        },
+        "forum": {
+            "n": 19,
+            "pct": 8
+        },
+        "other": {
+            "n": 10,
+            "pct": 4
+        },
+        "marketplace": {
+            "n": 5,
+            "pct": 2
+        },
+        "institution": {
+            "n": 4,
+            "pct": 2
+        }
+    },
+    "distinctDomains": 89,
+    "topDomains": [
+        {
+            "domain": "shopify.com",
+            "n": 64
+        },
+        {
+            "domain": "help.shopify.com",
+            "n": 21
+        },
+        {
+            "domain": "youtube.com",
+            "n": 15
+        },
+        {
+            "domain": "reddit.com",
+            "n": 14
+        },
+        {
+            "domain": "ecommercetrix.com",
+            "n": 6
+        },
+        {
+            "domain": "uptek.com",
+            "n": 5
+        },
+        {
+            "domain": "printify.com",
+            "n": 5
+        },
+        {
+            "domain": "demandsage.com",
+            "n": 4
+        },
+        {
+            "domain": "quora.com",
+            "n": 4
+        },
+        {
+            "domain": "hulkapps.com",
+            "n": 4
+        }
+    ],
+    "byQuery": [
+        {
+            "query": "shopify statistics 2026",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 100,
+            "pricesShownPct": 100,
+            "medianWords": 3210,
+            "topPageType": "study",
+            "distinctDomains": 10
+        },
+        {
+            "query": "shopify statistics",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 80,
+            "pricesShownPct": 80,
+            "medianWords": 2692,
+            "topPageType": "study",
+            "distinctDomains": 10
+        },
+        {
+            "query": "shopify trends 2026",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 100,
+            "pricesShownPct": 60,
+            "medianWords": 3188,
+            "topPageType": "listicle",
+            "distinctDomains": 5
+        },
+        {
+            "query": "shopify store statistics",
+            "n": 10,
+            "nFetched": 9,
+            "yearInTitlePct": 60,
+            "pricesShownPct": 89,
+            "medianWords": 2368,
+            "topPageType": "listicle",
+            "distinctDomains": 10
+        },
+        {
+            "query": "how many shopify stores are there",
+            "n": 8,
+            "nFetched": 8,
+            "yearInTitlePct": 75,
+            "pricesShownPct": 63,
+            "medianWords": 1409,
+            "topPageType": "other",
+            "distinctDomains": 8
+        },
+        {
+            "query": "shopify app statistics",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 40,
+            "pricesShownPct": 70,
+            "medianWords": 2017,
+            "topPageType": "study",
+            "distinctDomains": 9
+        },
+        {
+            "query": "ecommerce statistics 2026",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 90,
+            "pricesShownPct": 80,
+            "medianWords": 2937,
+            "topPageType": "listicle",
+            "distinctDomains": 6
+        },
+        {
+            "query": "shopify pricing statistics",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 80,
+            "pricesShownPct": 90,
+            "medianWords": 4536,
+            "topPageType": "guide",
+            "distinctDomains": 10
+        },
+        {
+            "query": "shopify conversion rate statistics",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 80,
+            "pricesShownPct": 90,
+            "medianWords": 2608,
+            "topPageType": "listicle",
+            "distinctDomains": 5
+        },
+        {
+            "query": "how many shopify stores in the us",
+            "n": 10,
+            "nFetched": 9,
+            "yearInTitlePct": 30,
+            "pricesShownPct": 78,
+            "medianWords": 1796,
+            "topPageType": "product",
+            "distinctDomains": 6
+        },
+        {
+            "query": "what is shopify",
+            "n": 8,
+            "nFetched": 8,
+            "yearInTitlePct": 13,
+            "pricesShownPct": 75,
+            "medianWords": 2142,
+            "topPageType": "guide",
+            "distinctDomains": 6
+        },
+        {
+            "query": "how does shopify work",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 60,
+            "pricesShownPct": 70,
+            "medianWords": 2233,
+            "topPageType": "guide",
+            "distinctDomains": 5
+        },
+        {
+            "query": "how much does shopify cost",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 60,
+            "pricesShownPct": 90,
+            "medianWords": 3629,
+            "topPageType": "guide",
+            "distinctDomains": 4
+        },
+        {
+            "query": "how to start a shopify store",
+            "n": 10,
+            "nFetched": 9,
+            "yearInTitlePct": 30,
+            "pricesShownPct": 56,
+            "medianWords": 496,
+            "topPageType": "guide",
+            "distinctDomains": 6
+        },
+        {
+            "query": "how to start a successful shopify store",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 60,
+            "pricesShownPct": 90,
+            "medianWords": 4043,
+            "topPageType": "guide",
+            "distinctDomains": 5
+        },
+        {
+            "query": "how to start a shopify store with no money",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 40,
+            "pricesShownPct": 100,
+            "medianWords": 3500,
+            "topPageType": "guide",
+            "distinctDomains": 4
+        },
+        {
+            "query": "how to use shopify",
+            "n": 9,
+            "nFetched": 9,
+            "yearInTitlePct": 44,
+            "pricesShownPct": 44,
+            "medianWords": 217,
+            "topPageType": "guide",
+            "distinctDomains": 4
+        },
+        {
+            "query": "is shopify free",
+            "n": 10,
+            "nFetched": 8,
+            "yearInTitlePct": 20,
+            "pricesShownPct": 75,
+            "medianWords": 1355,
+            "topPageType": "guide",
+            "distinctDomains": 7
+        },
+        {
+            "query": "is shopify legit",
+            "n": 10,
+            "nFetched": 8,
+            "yearInTitlePct": 10,
+            "pricesShownPct": 38,
+            "medianWords": 1861,
+            "topPageType": "guide",
+            "distinctDomains": 10
+        },
+        {
+            "query": "shopify vs woocommerce",
+            "n": 8,
+            "nFetched": 8,
+            "yearInTitlePct": 25,
+            "pricesShownPct": 88,
+            "medianWords": 4273,
+            "topPageType": "guide",
+            "distinctDomains": 8
+        },
+        {
+            "query": "shopify vs etsy",
+            "n": 7,
+            "nFetched": 7,
+            "yearInTitlePct": 57,
+            "pricesShownPct": 57,
+            "medianWords": 564,
+            "topPageType": "other",
+            "distinctDomains": 7
+        },
+        {
+            "query": "shopify app store",
+            "n": 5,
+            "nFetched": 5,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 80,
+            "medianWords": 1885,
+            "topPageType": "product",
+            "distinctDomains": 5
+        },
+        {
+            "query": "shopify how do i get paid",
+            "n": 9,
+            "nFetched": 9,
+            "yearInTitlePct": 11,
+            "pricesShownPct": 33,
+            "medianWords": 877,
+            "topPageType": "guide",
+            "distinctDomains": 4
+        },
+        {
+            "query": "shopify payment methods us",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 30,
+            "pricesShownPct": 40,
+            "medianWords": 418,
+            "topPageType": "guide",
+            "distinctDomains": 6
+        },
+        {
+            "query": "shopify sales tax",
+            "n": 7,
+            "nFetched": 6,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 50,
+            "medianWords": 801,
+            "topPageType": "guide",
+            "distinctDomains": 4
+        },
+        {
+            "query": "shopify tax deductions",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 20,
+            "pricesShownPct": 90,
+            "medianWords": 1764,
+            "topPageType": "listicle",
+            "distinctDomains": 5
+        },
+        {
+            "query": "shopify shipping usps ups fedex",
+            "n": 9,
+            "nFetched": 9,
+            "yearInTitlePct": 22,
+            "pricesShownPct": 67,
+            "medianWords": 1630,
+            "topPageType": "guide",
+            "distinctDomains": 7
+        },
+        {
+            "query": "how to cancel shopify subscription",
+            "n": 9,
+            "nFetched": 9,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 44,
+            "medianWords": 1750,
+            "topPageType": "guide",
+            "distinctDomains": 7
+        }
+    ],
+    "method": "Page-one results (10 per query) for 28 queries fetched on 2026-09-10 through the hub search layer; each page classified by type and measured (word count, year in title, prices shown, visible date). Blocked/unknown fetches are excluded from page-level rates."
+}

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="t d">
+<title id="t">Page types on Google's first page, 2026</title>
+<desc id="d">Guide: 45 %; Listicle: 17 %; Other: 10 %; Study: 10 %; Forum: 8 %; Product: 7 %; Category: 2 %; Other (news, tool): 1 %</desc>
+<text x="170" y="30" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#111318">Page types on Google's first page, 2026</text>
+<line x1="267.5" y1="46" x2="267.5" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<line x1="365" y1="46" x2="365" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<line x1="462.5" y1="46" x2="462.5" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<line x1="560" y1="46" x2="560" y2="324" stroke="#e3e7ee" stroke-width="1"/>
+<text x="158" y="73.8" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Guide</text>
+<rect x="170" y="58.4" width="339.1" height="20.8" rx="4" fill="#2f5bea"/>
+<text x="517.1" y="73.8" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">45 %</text>
+<text x="158" y="107.3" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Listicle</text>
+<rect x="170" y="91.9" width="128.1" height="20.8" rx="4" fill="#8fb4ff"/>
+<text x="306.1" y="107.3" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">17 %</text>
+<text x="158" y="140.8" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Other</text>
+<rect x="170" y="125.4" width="75.4" height="20.8" rx="4" fill="#2f5bea"/>
+<text x="253.4" y="140.8" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">10 %</text>
+<text x="158" y="174.3" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Study</text>
+<rect x="170" y="158.9" width="75.4" height="20.8" rx="4" fill="#8fb4ff"/>
+<text x="253.4" y="174.3" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">10 %</text>
+<text x="158" y="207.8" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Forum</text>
+<rect x="170" y="192.4" width="60.3" height="20.8" rx="4" fill="#2f5bea"/>
+<text x="238.3" y="207.8" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">8 %</text>
+<text x="158" y="241.3" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Product</text>
+<rect x="170" y="225.9" width="52.8" height="20.8" rx="4" fill="#8fb4ff"/>
+<text x="230.8" y="241.3" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">7 %</text>
+<text x="158" y="274.8" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Category</text>
+<rect x="170" y="259.4" width="15.1" height="20.8" rx="4" fill="#2f5bea"/>
+<text x="193.1" y="274.8" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">2 %</text>
+<text x="158" y="308.3" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#111318">Other (news, tool)</text>
+<rect x="170" y="292.9" width="7.5" height="20.8" rx="4" fill="#8fb4ff"/>
+<text x="185.5" y="308.3" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#111318">1 %</text>
+<text x="170" y="348" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#5b6472">Source: storelaunchguides.com, own data, 2026-09-10 (n = 251, 28 q). CC BY 4.0</text>
+</svg>
